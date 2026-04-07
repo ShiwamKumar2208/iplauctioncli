@@ -5,6 +5,13 @@ import random
 FILES = ["bat.json", "wk.json", "all.json", "bowl.json"]
 OUTPUT_FILE = "LOP.json"
 
+ROLE_MAP = {
+    "bat.json": "Batsman",
+    "wk.json": "Wicketkeeper",
+    "all.json": "All-Rounder",
+    "bowl.json": "Bowler"
+}
+
 
 def load_json(file):
     with open(file, "r") as f:
@@ -12,7 +19,6 @@ def load_json(file):
 
 
 def get_players(data):
-    # automatically detect key (batsmen, bowlers, etc.)
     key = list(data.keys())[0]
     return data[key]
 
@@ -30,21 +36,27 @@ def main():
         data = load_json(file)
         players = get_players(data)
 
-        print(f"✔ Loaded {len(players)} players from {file}")
+        role = ROLE_MAP.get(file, "Unknown")
 
-        # ensure all players are dicts
+        print(f"✔ Loaded {len(players)} players from {file} as {role}")
+
         for p in players:
             if isinstance(p, str):
-                all_players.append({"name": p})
+                player = {"name": p}
             else:
-                all_players.append(p)
+                player = p.copy()
+
+            # 🔥 assign role (overwrite if exists → consistency)
+            player["role"] = role
+
+            all_players.append(player)
 
     print(f"\n📦 Total players before shuffle: {len(all_players)}")
 
     # shuffle players
     random.shuffle(all_players)
 
-    # assign global id (important for auction)
+    # assign global ID
     for i, player in enumerate(all_players, start=1):
         player["id"] = i
 
