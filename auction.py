@@ -34,6 +34,36 @@ def create_teams(user_team):
     return teams
 
 
+def user_bid(team, player):
+    price = player["base_price"]
+
+    print(f"\n🔥 Auction: {player['name']} ({player['role']})")
+
+    while True:
+        print(f"\nCurrent Price: {price:.2f} Cr")
+        print(f"Your Budget: {team['budget']:.2f} Cr")
+
+        if team["budget"] < price:
+            print("❌ Not enough budget")
+            return
+
+        choice = input("Bid? (y to bid / n to stop): ").lower()
+
+        if choice == "y":
+            price += 0.25
+        else:
+            if price == player["base_price"]:
+                print("❌ Unsold")
+                return
+
+            final_price = price - 0.25
+            team["players"].append(player)
+            team["budget"] -= final_price
+
+            print(f"🏆 Bought {player['name']} for {final_price:.2f} Cr")
+            return
+
+
 def main():
     players = load_players()
     random.shuffle(players)
@@ -43,9 +73,17 @@ def main():
 
     print(f"\n🎯 You are {user_team}")
 
-    # just test first player
-    first = players[0]
-    print(f"\nFirst player: {first['name']} ({first['role']}) | {first['base_price']} Cr")
+    user_team_obj = teams[user_team]
+
+    # test first 5 players
+    for player in players[:5]:
+        user_bid(user_team_obj, player)
+
+    print("\n📊 Your Squad:")
+    for p in user_team_obj["players"]:
+        print(f"- {p['name']} ({p['role']})")
+
+    print(f"\n💰 Remaining Budget: {user_team_obj['budget']:.2f} Cr")
 
 
 if __name__ == "__main__":
