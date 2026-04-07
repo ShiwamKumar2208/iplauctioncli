@@ -1,39 +1,179 @@
 {
   "wicketkeepers": [
-    "MS Dhoni",
-    "KL Rahul",
-    "Rishabh Pant",
-    "Sanju Samson",
-    "Ishan Kishan",
-    "Jos Buttler",
-    "Quinton de Kock",
-    "Jonny Bairstow",
-    "Phil Salt",
-    "Rahmanullah Gurbaz",
-    "Nicholas Pooran",
-    "Heinrich Klaasen",
-    "Wriddhiman Saha",
-    "Dinesh Karthik",
-    "Devon Conway",
-    "Tom Banton",
-    "Ben Foakes",
-    "Alex Carey",
-    "Matthew Wade",
-    "Josh Inglis",
-    "Tim Seifert",
-    "Liton Das",
-    "Kusal Perera",
-    "Kusal Mendis",
-    "Mushfiqur Rahim",
-    "Mohammad Rizwan",
-    "Sarfaraz Ahmed",
-    "Naman Ojha",
-    "Parthiv Patel",
-    "Adam Gilchrist",
-    "Brendon McCullum",
-    "Mark Boucher",
-    "Kumar Sangakkara",
-    "AB de Villiers",
-    "Robin Uthappa"
+    {
+      "name": "MS Dhoni",
+      "rating": 98,
+      "base_price": 5.0
+    },
+    {
+      "name": "KL Rahul",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Rishabh Pant",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Sanju Samson",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Ishan Kishan",
+      "rating": 90,
+      "base_price": 2.0
+    },
+    {
+      "name": "Jos Buttler",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Quinton de Kock",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Jonny Bairstow",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Phil Salt",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Rahmanullah Gurbaz",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Nicholas Pooran",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Wriddhiman Saha",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Dinesh Karthik",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Devon Conway",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Tom Banton",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Ben Foakes",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Alex Carey",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Matthew Wade",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Josh Inglis",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Tim Seifert",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Liton Das",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Kusal Perera",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Kusal Mendis",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Mushfiqur Rahim",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Mohammad Rizwan",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Sarfaraz Ahmed",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Naman Ojha",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Parthiv Patel",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Adam Gilchrist",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Brendon McCullum",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Mark Boucher",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Kumar Sangakkara",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "AB de Villiers",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Robin Uthappa",
+      "rating": 72,
+      "base_price": 0.5
+    }
   ]
 }

@@ -1,64 +1,304 @@
 {
   "batsmen": [
-    "Virat Kohli",
-    "Rohit Sharma",
-    "Shubman Gill",
-    "Ruturaj Gaikwad",
-    "Yashasvi Jaiswal",
-    "Sai Sudharsan",
-    "Tilak Varma",
-    "Rahul Tripathi",
-    "Shreyas Iyer",
-    "Suryakumar Yadav",
-    "Devdutt Padikkal",
-    "Prithvi Shaw",
-    "Mayank Agarwal",
-    "Karun Nair",
-    "Manish Pandey",
-    "Abhishek Sharma",
-    "Travis Head",
-    "David Warner",
-    "Steve Smith",
-    "Joe Root",
-    "Kane Williamson",
-    "Babar Azam",
-    "Faf du Plessis",
-    "Rassie van der Dussen",
-    "Aiden Markram",
-    "Dawid Malan",
-    "Paul Stirling",
-    "Harry Brook",
-    "Ben Duckett",
-    "Matthew Short",
-    "Will Jacks",
-    "Alex Hales",
-    "Jason Roy",
-    "Chris Lynn",
-    "Shaun Marsh",
-    "Aaron Finch",
-    "Martin Guptill",
-    "Devon Conway",
-    "Tom Banton",
-    "Nicholas Pooran",
-    "Shimron Hetmyer",
-    "Sherfane Rutherford",
-    "Rahmanullah Gurbaz",
-    "Pathum Nissanka",
-    "Charith Asalanka",
-    "Kusal Mendis",
-    "Angelo Mathews",
-    "Daryl Mitchell",
-    "Ross Taylor",
-    "Ajinkya Rahane",
-    "Cheteshwar Pujara",
-    "Murali Vijay",
-    "Gautam Gambhir",
-    "Virender Sehwag",
-    "VVS Laxman",
-    "Brian Lara",
-    "Ricky Ponting",
-    "Mahela Jayawardene",
-    "Michael Hussey",
-    "Kevin Pietersen"
+    {
+      "name": "Virat Kohli",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Rohit Sharma",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Shubman Gill",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Sai Sudharsan",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Tilak Varma",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Rahul Tripathi",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Shreyas Iyer",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Suryakumar Yadav",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Devdutt Padikkal",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Prithvi Shaw",
+      "rating": 82,
+      "base_price": 1.0
+    },
+    {
+      "name": "Mayank Agarwal",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Karun Nair",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Manish Pandey",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Abhishek Sharma",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Travis Head",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "David Warner",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Steve Smith",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Joe Root",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Kane Williamson",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Babar Azam",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Faf du Plessis",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Rassie van der Dussen",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Aiden Markram",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Dawid Malan",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Paul Stirling",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Harry Brook",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Ben Duckett",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Matthew Short",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Will Jacks",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Alex Hales",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Jason Roy",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Chris Lynn",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Shaun Marsh",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Aaron Finch",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Martin Guptill",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Devon Conway",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Tom Banton",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Nicholas Pooran",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Shimron Hetmyer",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Sherfane Rutherford",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Rahmanullah Gurbaz",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Pathum Nissanka",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Charith Asalanka",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Kusal Mendis",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Angelo Mathews",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Daryl Mitchell",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Ross Taylor",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Ajinkya Rahane",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Cheteshwar Pujara",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Murali Vijay",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Gautam Gambhir",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Virender Sehwag",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "VVS Laxman",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Brian Lara",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Ricky Ponting",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Mahela Jayawardene",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Michael Hussey",
+      "rating": 90,
+      "base_price": 2.0
+    },
+    {
+      "name": "Kevin Pietersen",
+      "rating": 86,
+      "base_price": 1.5
+    }
   ]
 }

@@ -1,64 +1,304 @@
 {
   "bowlers": [
-    "Jasprit Bumrah",
-    "Mohammed Shami",
-    "Mohammed Siraj",
-    "Bhuvneshwar Kumar",
-    "Arshdeep Singh",
-    "Avesh Khan",
-    "Umran Malik",
-    "Prasidh Krishna",
-    "Shardul Thakur",
-    "Deepak Chahar",
-    "Kuldeep Yadav",
-    "Yuzvendra Chahal",
-    "Ravi Bishnoi",
-    "Varun Chakravarthy",
-    "R Ashwin",
-    "Ravindra Jadeja",
-    "Axar Patel",
-    "Harbhajan Singh",
-    "Anil Kumble",
-    "Zaheer Khan",
-    "Ashish Nehra",
-    "Irfan Pathan",
-    "Lasith Malinga",
-    "Chaminda Vaas",
-    "Mitchell Starc",
-    "Pat Cummins",
-    "Josh Hazlewood",
-    "Brett Lee",
-    "Glenn McGrath",
-    "Dale Steyn",
-    "Kagiso Rabada",
-    "Anrich Nortje",
-    "Lungi Ngidi",
-    "Morne Morkel",
-    "Shaheen Afridi",
-    "Haris Rauf",
-    "Wasim Akram",
-    "Waqar Younis",
-    "Imran Khan",
-    "Shane Bond",
-    "Trent Boult",
-    "Tim Southee",
-    "Neil Wagner",
-    "Lockie Ferguson",
-    "Adam Zampa",
-    "Mitchell Swepson",
-    "Rashid Khan",
-    "Mujeeb Ur Rahman",
-    "Alzarri Joseph",
-    "Jason Holder",
-    "Jerome Taylor",
-    "Curtly Ambrose",
-    "Courtney Walsh",
-    "Sunil Narine",
-    "Ajantha Mendis",
-    "Muttiah Muralitharan",
-    "Lasith Embuldeniya",
-    "Daniel Vettori",
-    "Graeme Swann",
-    "Mayank Yadav"
+    {
+      "name": "Jasprit Bumrah",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Mohammed Shami",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Mohammed Siraj",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Bhuvneshwar Kumar",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Arshdeep Singh",
+      "rating": 86,
+      "base_price": 1.6
+    },
+    {
+      "name": "Avesh Khan",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Umran Malik",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Prasidh Krishna",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Shardul Thakur",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Deepak Chahar",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Yuzvendra Chahal",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Ravi Bishnoi",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Varun Chakravarthy",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "R Ashwin",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Axar Patel",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Harbhajan Singh",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Anil Kumble",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Zaheer Khan",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Ashish Nehra",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Irfan Pathan",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Lasith Malinga",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Chaminda Vaas",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Mitchell Starc",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Pat Cummins",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Josh Hazlewood",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Brett Lee",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Glenn McGrath",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Dale Steyn",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Kagiso Rabada",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Anrich Nortje",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Lungi Ngidi",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Morne Morkel",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Shaheen Afridi",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Haris Rauf",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Wasim Akram",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Waqar Younis",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Imran Khan",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Shane Bond",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Trent Boult",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Tim Southee",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Neil Wagner",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Lockie Ferguson",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Adam Zampa",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Mitchell Swepson",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Rashid Khan",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Mujeeb Ur Rahman",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Alzarri Joseph",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Jason Holder",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Jerome Taylor",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Curtly Ambrose",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Courtney Walsh",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Sunil Narine",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Ajantha Mendis",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Muttiah Muralitharan",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Lasith Embuldeniya",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Daniel Vettori",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Graeme Swann",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Mayank Yadav",
+      "rating": 80,
+      "base_price": 1.0
+    }
   ]
 }

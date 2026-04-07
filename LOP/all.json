@@ -1,49 +1,229 @@
 {
   "all_rounders": [
-    "Hardik Pandya",
-    "Ravindra Jadeja",
-    "Axar Patel",
-    "Washington Sundar",
-    "Shardul Thakur",
-    "Deepak Chahar",
-    "Mitchell Marsh",
-    "Marcus Stoinis",
-    "Glenn Maxwell",
-    "Cameron Green",
-    "Ben Stokes",
-    "Sam Curran",
-    "Chris Woakes",
-    "Moeen Ali",
-    "Liam Livingstone",
-    "Will Jacks",
-    "Andre Russell",
-    "Sunil Narine",
-    "Kieron Pollard",
-    "Jason Holder",
-    "Kyle Mayers",
-    "Dwayne Bravo",
-    "Darren Sammy",
-    "Shakib Al Hasan",
-    "Mahmudullah",
-    "Thisara Perera",
-    "Angelo Mathews",
-    "Wanindu Hasaranga",
-    "Dasun Shanaka",
-    "Daryl Mitchell",
-    "Jimmy Neesham",
-    "Mitchell Santner",
-    "Colin de Grandhomme",
-    "Rashid Khan",
-    "Mohammad Nabi",
-    "Azmatullah Omarzai",
-    "Gulbadin Naib",
-    "Imad Wasim",
-    "Shadab Khan",
-    "Faheem Ashraf",
-    "Kapil Dev",
-    "Jacques Kallis",
-    "Andrew Flintoff",
-    "Yuvraj Singh",
-    "Shane Watson"
+    {
+      "name": "Hardik Pandya",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Axar Patel",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Washington Sundar",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Shardul Thakur",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Deepak Chahar",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Mitchell Marsh",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Marcus Stoinis",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Glenn Maxwell",
+      "rating": 90,
+      "base_price": 2.0
+    },
+    {
+      "name": "Cameron Green",
+      "rating": 90,
+      "base_price": 2.0
+    },
+    {
+      "name": "Ben Stokes",
+      "rating": 98,
+      "base_price": 2.0
+    },
+    {
+      "name": "Sam Curran",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Chris Woakes",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Moeen Ali",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Liam Livingstone",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Will Jacks",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Andre Russell",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Sunil Narine",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Kieron Pollard",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Jason Holder",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Kyle Mayers",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Dwayne Bravo",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Darren Sammy",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Shakib Al Hasan",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Mahmudullah",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Thisara Perera",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Angelo Mathews",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Wanindu Hasaranga",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Dasun Shanaka",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Daryl Mitchell",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Jimmy Neesham",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Mitchell Santner",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Colin de Grandhomme",
+      "rating": 80,
+      "base_price": 1.0
+    },
+    {
+      "name": "Rashid Khan",
+      "rating": 86,
+      "base_price": 1.5
+    },
+    {
+      "name": "Mohammad Nabi",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Azmatullah Omarzai",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Gulbadin Naib",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Imad Wasim",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Shadab Khan",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Faheem Ashraf",
+      "rating": 72,
+      "base_price": 0.5
+    },
+    {
+      "name": "Kapil Dev",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Jacques Kallis",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Andrew Flintoff",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Yuvraj Singh",
+      "rating": 92,
+      "base_price": 2.0
+    },
+    {
+      "name": "Shane Watson",
+      "rating": 92,
+      "base_price": 2.0
+    }
   ]
 }
