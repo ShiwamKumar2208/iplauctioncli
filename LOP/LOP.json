@@ -1,0 +1,1404 @@
+{
+  "players": [
+    {
+      "name": "Andre Russell",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 1
+    },
+    {
+      "name": "Sherfane Rutherford",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 2
+    },
+    {
+      "name": "Deepak Chahar",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "All-Rounder",
+      "id": 3
+    },
+    {
+      "name": "Shreyas Iyer",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 4
+    },
+    {
+      "name": "Shadab Khan",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 5
+    },
+    {
+      "name": "Morne Morkel",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 6
+    },
+    {
+      "name": "Mathisha Patherana",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 7
+    },
+    {
+      "name": "Lasith Malinga",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 8
+    },
+    {
+      "name": "Jos Buttler",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Wicketkeeper",
+      "id": 9
+    },
+    {
+      "name": "Lungi Ngidi",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Bowler",
+      "id": 10
+    },
+    {
+      "name": "Sunil Narine",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 11
+    },
+    {
+      "name": "Kusal Perera",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Wicketkeeper",
+      "id": 12
+    },
+    {
+      "name": "Yuvraj Singh",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 13
+    },
+    {
+      "name": "Shane Bond",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 14
+    },
+    {
+      "name": "Devdutt Padikkal",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 15
+    },
+    {
+      "name": "Will Jacks",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 16
+    },
+    {
+      "name": "Neil Wagner",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Bowler",
+      "id": 17
+    },
+    {
+      "name": "Rahul Tripathi",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 18
+    },
+    {
+      "name": "Dewald Brewis",
+      "rating": 82,
+      "base_price": 1,
+      "role": "Batsman",
+      "id": 19
+    },
+    {
+      "name": "Axar Patel",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 20
+    },
+    {
+      "name": "Jerome Taylor",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 21
+    },
+    {
+      "name": "Sam Curran",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 22
+    },
+    {
+      "name": "Daryl Mitchell",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 23
+    },
+    {
+      "name": "Washington Sundar",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "All-Rounder",
+      "id": 24
+    },
+    {
+      "name": "Ross Taylor",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 25
+    },
+    {
+      "name": "Kane Williamson",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 26
+    },
+    {
+      "name": "Shaun Marsh",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 27
+    },
+    {
+      "name": "Muttiah Muralitharan",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 28
+    },
+    {
+      "name": "Ben Foakes",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 29
+    },
+    {
+      "name": "Rishabh Pant",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Wicketkeeper",
+      "id": 30
+    },
+    {
+      "name": "Rahmanullah Gurbaz",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 31
+    },
+    {
+      "name": "Jacob Bethel",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 32
+    },
+    {
+      "name": "Courtney Walsh",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 33
+    },
+    {
+      "name": "Mohammad Rizwan",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 34
+    },
+    {
+      "name": "Mahmudullah",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 35
+    },
+    {
+      "name": "Shane Watson",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 36
+    },
+    {
+      "name": "Mitchell Starc",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 37
+    },
+    {
+      "name": "Cameron Green",
+      "rating": 90,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 38
+    },
+    {
+      "name": "Mayank Yadav",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Bowler",
+      "id": 39
+    },
+    {
+      "name": "Chris Lynn",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 40
+    },
+    {
+      "name": "Alex Hales",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 41
+    },
+    {
+      "name": "Shashank Singh",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 42
+    },
+    {
+      "name": "Brian Bennet",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 43
+    },
+    {
+      "name": "Arshdeep Singh",
+      "rating": 86,
+      "base_price": 1.6,
+      "role": "Bowler",
+      "id": 44
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 45
+    },
+    {
+      "name": "Azmatullah Omarzai",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 46
+    },
+    {
+      "name": "Kyle Mayers",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "All-Rounder",
+      "id": 47
+    },
+    {
+      "name": "Pat Cummins",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 48
+    },
+    {
+      "name": "Pathum Nissanka",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 49
+    },
+    {
+      "name": "Aaron Finch",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 50
+    },
+    {
+      "name": "Daniel Vettori",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 51
+    },
+    {
+      "name": "Babar Azam",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 52
+    },
+    {
+      "name": "Shakib Al Hasan",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "All-Rounder",
+      "id": 53
+    },
+    {
+      "name": "Ajantha Mendis",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Bowler",
+      "id": 54
+    },
+    {
+      "name": "Kuldeep Yadav",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 55
+    },
+    {
+      "name": "VVS Laxman",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 56
+    },
+    {
+      "name": "Kapil Dev",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 57
+    },
+    {
+      "name": "Virender Sehwag",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 58
+    },
+    {
+      "name": "Ajinkya Rahane",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 59
+    },
+    {
+      "name": "Sikandar Raza",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 60
+    },
+    {
+      "name": "Rashid Khan",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 61
+    },
+    {
+      "name": "Liton Das",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 62
+    },
+    {
+      "name": "Mahela Jayawardene",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 63
+    },
+    {
+      "name": "Ashish Nehra",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 64
+    },
+    {
+      "name": "Angelo Mathews",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "All-Rounder",
+      "id": 65
+    },
+    {
+      "name": "Glenn McGrath",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 66
+    },
+    {
+      "name": "Hardik Pandya",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 67
+    },
+    {
+      "name": "Darren Sammy",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 68
+    },
+    {
+      "name": "Mitchell Marsh",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 69
+    },
+    {
+      "name": "Gulbadin Naib",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 70
+    },
+    {
+      "name": "Adam Gilchrist",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Wicketkeeper",
+      "id": 71
+    },
+    {
+      "name": "Dasun Shanaka",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 72
+    },
+    {
+      "name": "Imad Wasim",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 73
+    },
+    {
+      "name": "Virat Kohli",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 74
+    },
+    {
+      "name": "Sarfaraz Ahmed",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 75
+    },
+    {
+      "name": "Haris Rauf",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 76
+    },
+    {
+      "name": "Mitchell Santner",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 77
+    },
+    {
+      "name": "Mark Boucher",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Wicketkeeper",
+      "id": 78
+    },
+    {
+      "name": "Josh Hazlewood",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 79
+    },
+    {
+      "name": "Lasith Embuldeniya",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 80
+    },
+    {
+      "name": "Aiden Markram",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 81
+    },
+    {
+      "name": "Moeen Ali",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "All-Rounder",
+      "id": 82
+    },
+    {
+      "name": "Yuzvendra Chahal",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 83
+    },
+    {
+      "name": "Jacques Kallis",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 84
+    },
+    {
+      "name": "R Ashwin",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 85
+    },
+    {
+      "name": "Faheem Ashraf",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 86
+    },
+    {
+      "name": "Ben Duckett",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 87
+    },
+    {
+      "name": "Mitchell Swepson",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 88
+    },
+    {
+      "name": "Naman Ojha",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 89
+    },
+    {
+      "name": "Wasim Akram",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 90
+    },
+    {
+      "name": "Dwayne Bravo",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 91
+    },
+    {
+      "name": "Chaminda Vaas",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 92
+    },
+    {
+      "name": "Karun Nair",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 93
+    },
+    {
+      "name": "Avesh Khan",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 94
+    },
+    {
+      "name": "Zaheer Khan",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 95
+    },
+    {
+      "name": "Ravi Bishnoi",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Bowler",
+      "id": 96
+    },
+    {
+      "name": "Martin Guptill",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 97
+    },
+    {
+      "name": "Chris Woakes",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 98
+    },
+    {
+      "name": "Umran Malik",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 99
+    },
+    {
+      "name": "Kusal Mendis",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Wicketkeeper",
+      "id": 100
+    },
+    {
+      "name": "Sanju Samson",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Wicketkeeper",
+      "id": 101
+    },
+    {
+      "name": "Murali Vijay",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 102
+    },
+    {
+      "name": "Lockie Ferguson",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 103
+    },
+    {
+      "name": "Mushfiqur Rahim",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 104
+    },
+    {
+      "name": "Steve Smith",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 105
+    },
+    {
+      "name": "Tim David",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 106
+    },
+    {
+      "name": "Roston Chase",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 107
+    },
+    {
+      "name": "Andrew Flintoff",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 108
+    },
+    {
+      "name": "Brendon McCullum",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Wicketkeeper",
+      "id": 109
+    },
+    {
+      "name": "Michael Hussey",
+      "rating": 90,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 110
+    },
+    {
+      "name": "Nicholas Pooran",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 111
+    },
+    {
+      "name": "Adam Zampa",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 112
+    },
+    {
+      "name": "Shardul Thakur",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Bowler",
+      "id": 113
+    },
+    {
+      "name": "Joe Root",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 114
+    },
+    {
+      "name": "Jason Holder",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 115
+    },
+    {
+      "name": "Brett Lee",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 116
+    },
+    {
+      "name": "Ricky Ponting",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 117
+    },
+    {
+      "name": "Alex Carey",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Wicketkeeper",
+      "id": 118
+    },
+    {
+      "name": "Tilak Varma",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 119
+    },
+    {
+      "name": "Irfan Pathan",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 120
+    },
+    {
+      "name": "David Warner",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 121
+    },
+    {
+      "name": "Shai Hope",
+      "rating": 82,
+      "base_price": 1,
+      "role": "Batsman",
+      "id": 122
+    },
+    {
+      "name": "Parthiv Patel",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 123
+    },
+    {
+      "name": "Brian Lara",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 124
+    },
+    {
+      "name": "Robin Uthappa",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 125
+    },
+    {
+      "name": "Abhishek Sharma",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 126
+    },
+    {
+      "name": "Shaheen Afridi",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 127
+    },
+    {
+      "name": "Dale Steyn",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 128
+    },
+    {
+      "name": "Charith Asalanka",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 129
+    },
+    {
+      "name": "MS Dhoni",
+      "rating": 98,
+      "base_price": 5.0,
+      "role": "Wicketkeeper",
+      "id": 130
+    },
+    {
+      "name": "Wanindu Hasaranga",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 131
+    },
+    {
+      "name": "Devon Conway",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Wicketkeeper",
+      "id": 132
+    },
+    {
+      "name": "Jonny Bairstow",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Wicketkeeper",
+      "id": 133
+    },
+    {
+      "name": "Thisara Perera",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 134
+    },
+    {
+      "name": "Akeal Hosein",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 135
+    },
+    {
+      "name": "Anil Kumble",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 136
+    },
+    {
+      "name": "Kevin Pietersen",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 137
+    },
+    {
+      "name": "Tom Banton",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 138
+    },
+    {
+      "name": "Wriddhiman Saha",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Wicketkeeper",
+      "id": 139
+    },
+    {
+      "name": "Vaibhav Suryavanshi",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 140
+    },
+    {
+      "name": "Alzarri Joseph",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 141
+    },
+    {
+      "name": "Kagiso Rabada",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Bowler",
+      "id": 142
+    },
+    {
+      "name": "Paul Stirling",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 143
+    },
+    {
+      "name": "Quinton de Kock",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Wicketkeeper",
+      "id": 144
+    },
+    {
+      "name": "Rassie van der Dussen",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 145
+    },
+    {
+      "name": "Trent Boult",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 146
+    },
+    {
+      "name": "Imran Khan",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 147
+    },
+    {
+      "name": "Waqar Younis",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 148
+    },
+    {
+      "name": "KL Rahul",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Wicketkeeper",
+      "id": 149
+    },
+    {
+      "name": "Tim Southee",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 150
+    },
+    {
+      "name": "Rohit Sharma",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 151
+    },
+    {
+      "name": "Josh Inglis",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Wicketkeeper",
+      "id": 152
+    },
+    {
+      "name": "Heinrich Klaasen",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Wicketkeeper",
+      "id": 153
+    },
+    {
+      "name": "AB de Villiers",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Wicketkeeper",
+      "id": 154
+    },
+    {
+      "name": "Manish Pandey",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 155
+    },
+    {
+      "name": "Colin de Grandhomme",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "All-Rounder",
+      "id": 156
+    },
+    {
+      "name": "Ravindra Jadeja",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 157
+    },
+    {
+      "name": "Curtly Ambrose",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 158
+    },
+    {
+      "name": "Bhuvneshwar Kumar",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 159
+    },
+    {
+      "name": "Gautam Gambhir",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 160
+    },
+    {
+      "name": "Glenn Maxwell",
+      "rating": 90,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 161
+    },
+    {
+      "name": "Sai Sudharsan",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 162
+    },
+    {
+      "name": "Shimron Hetmyer",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 163
+    },
+    {
+      "name": "Graeme Swann",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 164
+    },
+    {
+      "name": "Varun Chakravarthy",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Bowler",
+      "id": 165
+    },
+    {
+      "name": "Ishan Kishan",
+      "rating": 90,
+      "base_price": 2.0,
+      "role": "Wicketkeeper",
+      "id": 166
+    },
+    {
+      "name": "Jimmy Neesham",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 167
+    },
+    {
+      "name": "Mohammed Shami",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Bowler",
+      "id": 168
+    },
+    {
+      "name": "Dawid Malan",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 169
+    },
+    {
+      "name": "Travis Head",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Batsman",
+      "id": 170
+    },
+    {
+      "name": "Harry Brook",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 171
+    },
+    {
+      "name": "Matthew Short",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 172
+    },
+    {
+      "name": "Ben Stokes",
+      "rating": 98,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 173
+    },
+    {
+      "name": "Mayank Agarwal",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 174
+    },
+    {
+      "name": "Yashasvi Jaiswal",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 175
+    },
+    {
+      "name": "Faf du Plessis",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 176
+    },
+    {
+      "name": "Anrich Nortje",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 177
+    },
+    {
+      "name": "Cheteshwar Pujara",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Batsman",
+      "id": 178
+    },
+    {
+      "name": "Kieron Pollard",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "All-Rounder",
+      "id": 179
+    },
+    {
+      "name": "Noor Ahmed",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 180
+    },
+    {
+      "name": "Harbhajan Singh",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 181
+    },
+    {
+      "name": "Mohammed Siraj",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 182
+    },
+    {
+      "name": "Corbin Bosch",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 183
+    },
+    {
+      "name": "Mujeeb Ur Rahman",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 184
+    },
+    {
+      "name": "Kumar Sangakkara",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Wicketkeeper",
+      "id": 185
+    },
+    {
+      "name": "Jason Roy",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Batsman",
+      "id": 186
+    },
+    {
+      "name": "Mohammad Nabi",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "All-Rounder",
+      "id": 187
+    },
+    {
+      "name": "Romario Shepherd",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "All-Rounder",
+      "id": 188
+    },
+    {
+      "name": "Prasidh Krishna",
+      "rating": 72,
+      "base_price": 0.5,
+      "role": "Bowler",
+      "id": 189
+    },
+    {
+      "name": "Shubman Gill",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 190
+    },
+    {
+      "name": "Tim Seifert",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Wicketkeeper",
+      "id": 191
+    },
+    {
+      "name": "Matthew Wade",
+      "rating": 92,
+      "base_price": 2.0,
+      "role": "Wicketkeeper",
+      "id": 192
+    },
+    {
+      "name": "Suryakumar Yadav",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 193
+    },
+    {
+      "name": "Marcus Stoinis",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 194
+    },
+    {
+      "name": "Liam Livingstone",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "All-Rounder",
+      "id": 195
+    },
+    {
+      "name": "Gerald Coatze",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Bowler",
+      "id": 196
+    },
+    {
+      "name": "Dinesh Karthik",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Wicketkeeper",
+      "id": 197
+    },
+    {
+      "name": "Phil Salt",
+      "rating": 86,
+      "base_price": 1.5,
+      "role": "Wicketkeeper",
+      "id": 198
+    },
+    {
+      "name": "Ruturaj Gaikwad",
+      "rating": 80,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 199
+    },
+    {
+      "name": "Prithvi Shaw",
+      "rating": 82,
+      "base_price": 1.0,
+      "role": "Batsman",
+      "id": 200
+    }
+  ]
+}
