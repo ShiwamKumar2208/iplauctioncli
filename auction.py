@@ -153,4 +153,12 @@ if __name__ == "__main__":
 
 
 
+
+
+
+
+
+# TODO: add mouse trail on kaju barfi
+
+
 # I want to make a snapshot like tool which will either look or ask for whatever i am using and then save it as a file and when i command the app it will open the exact workspace
