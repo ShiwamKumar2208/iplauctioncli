@@ -1,11 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome</title>
-</head>
+<html>
 <body>
-    <h1>Welcome to Ipl Auction CLI</h1>
+<h2>🎤 Auction Speaker</h2>
+
+<script>
+let lastSpoken = "";
+
+function speak(text) {
+  if (!text || text === lastSpoken) return;
+  lastSpoken = text;
+
+  const utter = new SpeechSynthesisUtterance(text);
+  speechSynthesis.speak(utter);
+}
+
+setInterval(async () => {
+  try {
+    const res = await fetch("http://localhost:3000/last");
+    const data = await res.json();
+    if (data.text) speak(data.text);
+  } catch (e) {
+    console.log("Waiting for server...");
+  }
+}, 500);
+</script>
+
 </body>
 </html>
